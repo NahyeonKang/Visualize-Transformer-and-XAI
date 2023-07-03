@@ -6,3 +6,6 @@ Transformer의 self-attention과 대표적인 XAI 기법의 결과를 비교합�
 ### Lime
 
 ## Tabular
+### TabTransformer
+### Lime
+### Shapley
